@@ -134,7 +134,7 @@ public class ClienteView extends javax.swing.JInternalFrame {
             cliente.setNomeCliente(txtNome.getText());
             cliente.setEnderecoCliente(txtBairro.getText());
             cliente.setBairroCliente(txtBairro.getText());
-            
+            //reertertwrw
             try {
                 
             } 
